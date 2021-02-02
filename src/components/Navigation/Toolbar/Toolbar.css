@@ -17,5 +17,9 @@
     height: 100%;
 }
 
+.Logo {
+    height: 80%;
+}
+
 /* Setting up the toolbar settings for mobile devices.
     Then will adjust for desktop settings */
